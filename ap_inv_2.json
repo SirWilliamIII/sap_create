@@ -1,0 +1,17 @@
+{
+    "Lines": [{
+        "LineTotal": "22320.0",
+        "AccountCode": "115020003",
+        "CostingCode": 1000,
+        "CostingCode2": 1100,
+        "ItemDescription": "50% DEPOSIT DUE UPON RECEIPT"
+    }],
+    "DocDate": "2019-05-08 00:00:00.0",
+    "DocType": "dDocument_Service",
+    "CardCode": "V00156",
+    "CardName": "El Dorado Molds",
+    "Comments": "050319-3",
+    "NumAtCard": "test123",
+    "DocDueDate": "2019-05-08 00:00:00.0",
+    "Reference1": "FABAA2A..."
+}

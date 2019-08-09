@@ -1,0 +1,20 @@
+{
+    "Memo": "BoA expense report July 2016",
+    "Ref1": "BoA expense report July 2016",
+    "Ref2": "Schond.Greenway@mesoblast.com",
+    "DocDate": "2019-06-20",
+    "ReferenceDate": "2019-06-20",
+    "Lines": [{
+            "Debit": 61.72,
+            "Project": "",
+            "LineMemo": "Meeting with institutional investor",
+            "AccountCode": "_SYS00000000396"
+        },
+        {
+            "Credit": 61.72,
+            "Project": "",
+            "LineMemo": "Meeting with institutional investor",
+            "AccountCode": "_SYS00000000305"
+        }
+    ]
+}

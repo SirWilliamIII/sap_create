@@ -1,0 +1,10 @@
+{
+    "Lines": [{
+        "Debit": 22.2,
+        "LineMemo": "Uber to DCA from DC Meeting",
+        "AccountCode": "_SYS00000002233"
+    }],
+    "DueDate": "2019-06-07",
+    "Reference1": "PIERRE TRAPANESE",
+    "ReferenceDate": "2019-06-07"
+}

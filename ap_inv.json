@@ -1,0 +1,13 @@
+            {
+                "Lines": [{
+                    "TaxCode": "Ex",
+                    "LineTotal": "-13.55",
+                    "AccountCode": "_SYS00000000691",
+                    "ItemDescription": "UBER   TRIP"
+                }],
+                "DocDate": "2019-03-04",
+                "DocType": "dDocument_Service",
+                "CardCode": "68",
+                "CardName": "Patricia Trapanese",
+                "DocDueDate": "2019-03-04"
+            }

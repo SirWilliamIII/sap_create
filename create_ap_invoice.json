@@ -1,0 +1,17 @@
+{
+    "Lines": [{
+        "TaxCode": "Ex",
+        "LineTotal": "42.59",
+        "AccountCode": "6384",
+        "CostingCode": "MS",
+        "ItemDescription": " Ground Transportation - 6384"
+    }],
+    "DocDate": "2019-06-28",
+    "DocType": "dDocument_Service",
+    "CardCode": "EMP0003",
+    "CardName": "Brent Eberle",
+    "Comments": "6.23.19 Report",
+    "NumAtCard": "Brent Eberle",
+    "DocDueDate": "2019-06-28",
+    "Reference1": "6.23.19..."
+}

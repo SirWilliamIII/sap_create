@@ -1,0 +1,12 @@
+      {
+          "Lines": [{
+              "LineTotal": "80.74",
+              "AccountCode": "_SYS00000001501",
+              "ItemDescription": "Mileage to airport to train at ControlRad"
+          }],
+          "DocType": "1",
+          "CardCode": "V000000",
+          "Comments": "Chris Sharroc-BII",
+          "DocDueDate": "2016-01-01",
+          "DocObjectCodeEx": "18"
+      }

@@ -1,0 +1,22 @@
+{
+    "Lines": [{
+        "TaxCode": "FLEX",
+        "ItemCode": "05SOKUB1P",
+        "Quantity": "2",
+        "UnitPrice": "27.95"
+    }],
+    "CardCode": "MISCCR",
+    "CardName": "Asset Protection and Security Services",
+    "Expenses": [{
+        "TaxCode": "FLEX",
+        "LineTotal": "18.71",
+        "ExpenseCode": "3"
+    }],
+    "NumAtCard": "WEB ORDER 8374",
+    "DocDueDate": "2019-08-08",
+    "AddressExtension": {
+        "ShipToStreet": "Timothy Brockman \n3250 North Pinal Parkway Avenue \nFlorence, Arizona 85132\n",
+        "ShipToAddress2": "Timothy Brockman \n3250 North Pinal Parkway Avenue \nFlorence, Arizona 85132\n"
+    },
+    "TransportationCode": "5"
+}
